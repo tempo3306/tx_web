@@ -9,7 +9,7 @@ chardet==3.0.4
 decorator==4.2.1
 Django==2.0.3
 django-celery==3.2.2
-django-celery-results==1.0.1
+django-celery-results==2.4.0
 django-crispy-forms==1.7.1
 django-extensions==1.9.9
 django-filter==1.1.0
